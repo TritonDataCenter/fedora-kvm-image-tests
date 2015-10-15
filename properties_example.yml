@@ -1,0 +1,6 @@
+fedora-22:
+  :roles:
+    - fedora
+  :name: Fedora 22
+  :version: 20151015
+  :doc_url: https://docs.joyent.com/images/linux/fedora
